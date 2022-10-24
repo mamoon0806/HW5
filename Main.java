@@ -13,7 +13,6 @@ class BookstoreBook {
     this.isbn = "";
   }
 
-  dada
   public BookstoreBook(String author) {
     this.author = author;
   }
